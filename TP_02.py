@@ -29,6 +29,7 @@ print("Le nombre des voyelle: ", nbrVoyelle)
 
 ###########################################################################"
 
-LstMots = ["des", "mots", "toujours", "des", "mots"]
+lstMots = ["des", "mots", "toujours", "des", "mots"]
+print(lstMots)
 
 ###########################################################################
