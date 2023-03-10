@@ -27,8 +27,6 @@ currentDateTime = datetime.datetime.now()
 date = currentDateTime.date()
 anneeActuel = date.strftime("%Y")
 
-
-
 anneeNaissance = input("Ajouter votre année de naissance: ")
 #anneeActuel = 2000
 
